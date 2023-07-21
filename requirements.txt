@@ -5,4 +5,5 @@ scikit-learn
 xgboost
 catboost
 dataclasses
+dill
 -e .
